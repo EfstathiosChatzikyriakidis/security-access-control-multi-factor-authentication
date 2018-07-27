@@ -1,7 +1,7 @@
 /*
  *  Security Access Control & Multi-Factor Authentication.
  *
- *  Copyright (C) 2011 TheHackerspace (info@the-hackerspace.org)
+ *  Copyright (C) 2011 Efstathios Chatzikyriakidis (contact@efxa.org)
  *
  *  This program is free software: you can redistribute it and/or modify
  *  it under the terms of the GNU General Public License as published by
